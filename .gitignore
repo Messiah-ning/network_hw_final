@@ -4,7 +4,7 @@ tuplemerge/main
 
 # Large data files (regenerate with gen_rules.py / gen_traces.py)
 *.trace
-tuplemerge/data/
+# tuplemerge/data/
 MultilayerTuple/data/100K_*
 
 # Third-party generator tool (not our code)
