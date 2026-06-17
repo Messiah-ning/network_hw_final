@@ -6,7 +6,7 @@ Classifiers="TMOffline,TMOnline,MultilayerTuple,PTTree"
 RuleList="100K_acl1"
 SourceDir=./data
 PacketDir=./data
-OutputDir=../Output_TupleMerge/
+OutputDir=../Output
 
 Limit=10
 
